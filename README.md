@@ -16,3 +16,13 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 [Demo Video](https://github.com/HappyGhostz/flutter_power_list_layout/blob/master/demo/Screenrecording_20220715_175229.mp4).
+
+<video width="320" height="240" controls>
+    <source src="https://github.com/HappyGhostz/flutter_power_list_layout/blob/master/demo/Screenrecording_20220715_175229.mp4" type="video/mp4">
+</video>
+
+```HTML
+<video width="320" height="240" controls>
+    <source src="https://github.com/HappyGhostz/flutter_power_list_layout/blob/master/demo/Screenrecording_20220715_175229.mp4" type="video/mp4">
+</video>
+```
